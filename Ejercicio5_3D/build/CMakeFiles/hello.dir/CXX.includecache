@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fredis/Guia#2_OR15011/Ejercicio5_3D/ejercicio5_3D.cpp
+stdio.h
+-
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+

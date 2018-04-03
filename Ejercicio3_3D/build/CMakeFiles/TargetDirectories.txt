@@ -1,0 +1,3 @@
+/home/fredis/Guia#2_OR15011/Ejercicio3_3D/build/CMakeFiles/rebuild_cache.dir
+/home/fredis/Guia#2_OR15011/Ejercicio3_3D/build/CMakeFiles/edit_cache.dir
+/home/fredis/Guia#2_OR15011/Ejercicio3_3D/build/CMakeFiles/hello.dir
